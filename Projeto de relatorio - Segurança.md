@@ -5,7 +5,7 @@ Empresa: Abstergo Industries
 Responsável: Lucas Eighi Nakazoni
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa [nome da empresa], realizado por [nome do responsável pelo projeto]. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Lucas Eighi Nakazoni. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
 
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
